@@ -8,7 +8,7 @@ Repositorio con la solución del taller práctico de SQL para la tienda
 
 ## Cómo ejecutar
 Los archivos `.sql` pueden ejecutarse directamente contra la base de datos
-`tienda.db` usando DB Browser for SQLite o sqlite3.
+`tienda.db` usando sqliteonline.
 
 ## Autor
 Juan David Girón Cerón
